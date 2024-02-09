@@ -1,0 +1,30 @@
+Hvad står JSON for?
+JSON står for JavaScript Object Notation. Det er et populært dataværdiformat,
+ der bruges til at overføre data mellem klienter og server på internettet.
+
+Hvad er forskellen mellem JSON og XML?
+JSON og XML er begge dataværdiformater, men JSON er lettere og mere kompakt.
+ JSON bruger færre tegn og er nemmere at læse for mennesker og computere. XML bruger tags og er mere hierarkisk.
+
+Hvad bruges JSON generelt til?
+JSON bruges primært til at sende og modtage strukturerede data mellem applikationer og servere.
+Det bruges ofte i webudvikling og API-implementeringer.
+
+Skriv de 6 datatyper i JSON.
+JSON understøtter seks primære datatyper:
+
+String: Tekstdata
+Number: Taldata
+Boolean: Sand eller falsk
+Object: En samling af nøgle-værdi-par
+Array: En samling af værdier
+Null: Fraværende værdi
+
+
+Skriv de 4 syntaksregler for JSON.
+
+Data er i nøgle-værdi-par
+Data adskilles af kommaer
+Objekter holdes i krøllede parenteser {}
+Arrays holdes i firkantede parenteser []
+

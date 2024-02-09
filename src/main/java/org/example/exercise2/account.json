@@ -1,0 +1,77 @@
+[
+  {
+    "firstName": "sumaia",
+    "lastName": "kalash",
+    "birthDate": "1995",
+    "address": {
+      "street": "strandvangen 4",
+      "city": "hvidovre",
+      "zipCode": 2650
+    },
+    "account": {
+      "id": "3267382",
+      "balance": "5000",
+      "isActive": true
+    }
+  },
+  {
+    "firstName": "laila",
+    "lastName": "kira",
+    "birthDate": "1935",
+    "address": {
+      "street": "sluseholmen",
+      "city": "sydhavn",
+      "zipCode": 2450
+    },
+    "account": {
+      "id": "132434",
+      "balance": "500",
+      "isActive": false
+    }
+  },
+  {
+    "firstName": "lina",
+    "lastName": "jakson",
+    "birthDate": "2000",
+    "address": {
+      "street": "nørrebrovej ",
+      "city": "nørrebro",
+      "zipCode": 2650
+    },
+    "account": {
+      "id": "123456",
+      "balance": "10000",
+      "isActive": true
+    }
+  },
+  {
+    "firstName": "rasmus",
+    "lastName": "nielsen",
+    "birthDate": "1900",
+    "address": {
+      "street": "hvidovrevej 10",
+      "city": "hvidovre",
+      "zipCode": 2650
+    },
+    "account": {
+      "id": "983730",
+      "balance": "9000",
+      "isActive": true
+    }
+  },
+  {
+    "firstName": "ronja",
+    "lastName": "mir",
+    "birthDate": "1996",
+    "address": {
+      "street": "skolesiden",
+      "city": "brønshøj",
+      "zipCode": 2600
+    },
+    "account": {
+      "id": "04129560",
+      "balance": "6000",
+      "isActive": false
+    }
+  }
+]
