@@ -32,10 +32,12 @@ public class Main {
     }
     public static AccountDto[] arrayCustomerToArrayDTO(Customer[] arrayCustomer) {
         AccountDto[] arrayOfDTO = new AccountDto[arrayCustomer.length];
-        String fullName = null;
+        String fullName = null ;
 
         for (int i = 0; i < arrayCustomer.length; i++) {
             Customer c = arrayCustomer[i];
+            System.out.println("Full Name: " + fullName);
+
              fullName = c.getFirstName() + " " + c.getLastName();
             arrayOfDTO[i] = new AccountDto(fullName, c.getAddress().getCity(), c.getAddress().getZipCode(), c.getAccount().getIsActive());
         }

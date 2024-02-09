@@ -17,7 +17,7 @@ public class AccountDto {
 
 
 
-    public AccountDto(String fullnamex, String city, int zipCode, String isActive) {
+    public AccountDto(String fullname, String city, int zipCode, String isActive) {
         this.fullname = fullname;
         this.City = city;
         this.zipCode = zipCode;
